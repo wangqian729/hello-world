@@ -1,2 +1,3 @@
 # hello-world
-Just a new repository
+hello-world branch
+Today is 2017-7-12.
